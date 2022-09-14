@@ -1,0 +1,20 @@
+
+.navegacao{
+    display: flex;
+    flex-direction: row;
+    vertical-align: top;
+    justify-content: space-between;
+    padding: 1em 2em;
+}
+
+.navegacao__pesquisa{
+    vertical-align: top;
+    color: var(--background);
+    padding: 1em 5em;
+    padding-left: .5em;
+    height: 3em;
+    
+    border-radius:  2em;
+    
+    
+}
