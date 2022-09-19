@@ -1,0 +1,30 @@
+.banner{
+    position: relative;
+}
+.texto{
+    position: absolute;
+    top: 43%;
+    left: 15%;
+    font-family: var(--texto);
+    color: var(--background);
+    font-weight: 700;
+    font-style: normal;
+    
+}
+.textos__principal{
+    font-size: 52px;
+    margin-bottom: .2em;
+}
+.textos__detalhes{
+    font-size: 22px;
+    line-height: 26px;
+    margin-bottom: 2em ;
+}
+.console{
+    
+    font-size: 1em;
+    font-weight: 400;
+    color: var(--background);
+    background-color: var(--links);
+}
+

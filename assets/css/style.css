@@ -1,45 +1,14 @@
 :root{
     --background:#FFFFFF;
     --links:#2A7AE4;
-    --texto:#464646;
+    --textos:#464646;
     --cinza:#F5F5F5;
+    --texto:"raleway";
 }
-*{
-    margin: 0;
-    padding: 0;
+body{
+    font-family: var(--texto);
+    font-weight: 700;
 }
-
-header{
-    height: 400px;
-}
-.banner{
+.banner-imagem{
     width: 100%;
-}
-
-.textos__principal{
-    font-size: 52px;
-}
-
-.banner__relativo{
-    position: absolute;
-}
-.textos{
-    color: var(--background);
-    top: 40%;
-    left: 10%;
-    position: absolute;
-}
-
-.textos__detalhes{
-    font-size: 22px;
-}
-
-.console{
-    display:inline-block;
-    margin-top: 2em;
-    
-    padding: 1em 2em;
-    color: var(--background);
-    background-color: var(--links);
-    
 }
