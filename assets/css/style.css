@@ -3,6 +3,7 @@
     --links:#2A7AE4;
     --textos:#464646;
     --cinza:#F5F5F5;
+    --background-footer:#EAF2FD;
     --texto:"raleway";
 }
 body{
@@ -11,4 +12,5 @@ body{
 }
 .banner-imagem{
     width: 100%;
+    height: 50vh;
 }

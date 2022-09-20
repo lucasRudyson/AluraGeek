@@ -15,6 +15,9 @@
     color: #464646;
     align-items: flex-end;
 }
+.item{
+    margin-top: 1em;
+}
 
 .produtos__texto{
     margin: 1em 0;

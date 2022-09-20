@@ -1,0 +1,61 @@
+.footer{
+    background-color: var(--background-footer);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 2em;
+    height: 40vh;
+    align-items: center;
+    
+}
+
+.footer__logo{
+    width: 176px;
+    height: 50px;
+    align-items: flex-start;
+}
+
+.footer__link{
+    margin: 1.5em;
+    margin-top: 0;
+}
+
+.footer__link-texto{
+    color: var(--texto);
+    opacity: .6;
+    text-decoration: none;
+    
+}
+
+.form{
+    
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.espacamento{
+    margin-bottom: 1em;
+    font-size: 15px;
+    
+}
+
+.forms__nome{
+    width: 450px;
+    height: 60px;
+    
+    
+}
+
+.fale-conosco{
+    color: var(--texto);
+    opacity: .6;
+    
+
+}
+
+.forms__botao{
+    width: 140px;
+    height: 1.5em;
+    align-items: center;
+}
