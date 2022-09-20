@@ -1,0 +1,7 @@
+.desenvolvedor{
+    margin: 2em;
+    margin-bottom: 1em;
+    text-align: center;
+    color: var(--texto);
+    font-size: 1em;
+}
